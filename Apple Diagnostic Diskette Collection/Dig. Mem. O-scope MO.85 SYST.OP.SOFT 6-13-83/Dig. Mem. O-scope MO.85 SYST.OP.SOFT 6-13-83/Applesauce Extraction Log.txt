@@ -1,0 +1,230 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:38
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+26 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 003 HELLO
+*A 003 HELLO A
+*I 002 HELLO I
+*B 034 LOGO
+*B 007 INITIALIZE 85
+*B 002 ORIGINAL SETUP 85
+ B 002 SETUP 85
+*B 023 HARDWARE CONTROL
+*B 017 USER INTERFACE
+*A 004 PROGRAM 1
+*A 004 PROGRAM 2
+*A 005 PROGRAM 3
+*A 004 CONFIGURE MODEL 85 SOFTWARE
+*B 006 DIGITIZER 0-1
+*B 006 DIGITIZER 2-3
+*B 006 DIGITIZER 4-5
+*B 003 NOMINAL SIGNAL
+*T 002 INTEGER SETUP
+*I 002 CONFIGURE MODEL 85 SOFTWARE I
+*T 002 CM85S I
+*I 004 CM85S I2
+*A 005 CONFIGURE PRINTER SOFTWARE
+*I 002 CONFIGURE PRINTER SOFTWARE I
+*T 002 CPS I
+*I 005 CPS I2
+*I 002 HELLO I2
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: 8cf680a3d619d881b31a3622f08a8fc6
+
+Prog Size: 242                            Sectors: 3              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+HELLO A
+A - Applesoft BASIC                        MD5: 8cf680a3d619d881b31a3622f08a8fc6
+
+Prog Size: 242                            Sectors: 3              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+HELLO I
+I - Integer BASIC                          MD5: ce5225a6745fd1b015a9b00a79cf9212
+
+Prog Size: 31                             Sectors: 2              TSL: T$1E S$0B
+
+--------------------------------------------------------------------------------
+
+LOGO
+B - Binary                                 MD5: a2ca948c644387d66bc37810f69b6a59
+
+  Address: $2000         Size: 8192       Sectors: 34             TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+INITIALIZE 85
+B - Binary                                 MD5: b4fee0166a5f3cd8415540035a328403
+
+  Address: $0C00         Size: 1280       Sectors: 7              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+ORIGINAL SETUP 85
+B - Binary                                 MD5: a188fa138e2d346640159e701339a955
+
+  Address: $9518         Size: 232        Sectors: 2              TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+SETUP 85
+B - Binary                                 MD5: a188fa138e2d346640159e701339a955
+
+  Address: $9518         Size: 232        Sectors: 2              TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+HARDWARE CONTROL
+B - Binary                                 MD5: 3ea77953c0dc2000d655445b7434404f
+
+  Address: $7FE0         Size: 5432       Sectors: 23             TSL: T$1C S$0F
+
+--------------------------------------------------------------------------------
+
+USER INTERFACE
+B - Binary                                 MD5: 26a982cb7d11955bd34b8e3c0ffe8fa9
+
+  Address: $1100         Size: 3840       Sectors: 17             TSL: T$1D S$0F
+
+--------------------------------------------------------------------------------
+
+PROGRAM 1
+A - Applesoft BASIC                        MD5: 30bbaeb0a5c3da1da5afa50b5adf2d31
+
+Prog Size: 666                            Sectors: 4              TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+
+PROGRAM 2
+A - Applesoft BASIC                        MD5: 073c2f20088d1030ce3df4bc7590303e
+
+Prog Size: 681                            Sectors: 4              TSL: T$1F S$0F
+
+--------------------------------------------------------------------------------
+
+PROGRAM 3
+A - Applesoft BASIC                        MD5: 0a44facd57a1eac16eed0313c98d8f44
+
+Prog Size: 938                            Sectors: 5              TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+CONFIGURE MODEL 85 SOFTWARE
+A - Applesoft BASIC                        MD5: 89917df5f3179ae4c5f58b98837d96f1
+
+Prog Size: 579                            Sectors: 4              TSL: T$21 S$0F
+
+--------------------------------------------------------------------------------
+
+DIGITIZER 0-1
+B - Binary                                 MD5: e788422f7c2d53b985823aab09d21905
+
+  Address: $1000         Size: 1240       Sectors: 6              TSL: T$20 S$0A
+
+--------------------------------------------------------------------------------
+
+DIGITIZER 2-3
+B - Binary                                 MD5: de3deb275001da2a5ed14eb1835c6b82
+
+  Address: $1000         Size: 1240       Sectors: 6              TSL: T$21 S$0B
+
+--------------------------------------------------------------------------------
+
+DIGITIZER 4-5
+B - Binary                                 MD5: 26692e43891a3098e89b10035bfdc61a
+
+  Address: $1000         Size: 1240       Sectors: 6              TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+NOMINAL SIGNAL
+B - Binary                                 MD5: 9ce918a4956b62d06dff3ebb0cf3b973
+
+  Address: $0F00         Size: 264        Sectors: 3              TSL: T$0E S$0F
+
+--------------------------------------------------------------------------------
+
+INTEGER SETUP
+T - Text                                   MD5: 508a73f791af466c7e49cf8f2eb94f68
+
+                                          Sectors: 2              TSL: T$1B S$0D
+
+--------------------------------------------------------------------------------
+
+CONFIGURE MODEL 85 SOFTWARE I
+I - Integer BASIC                          MD5: 499cc3d14db2d6d09891dfad2fc885ca
+
+Prog Size: 51                             Sectors: 2              TSL: T$10 S$0F
+
+--------------------------------------------------------------------------------
+
+CM85S I
+T - Text                                   MD5: e5a41ba39b1c94ab487374aa81c7dd99
+
+                                          Sectors: 2              TSL: T$0F S$0F
+
+--------------------------------------------------------------------------------
+
+CM85S I2
+I - Integer BASIC                          MD5: a6a3f6db4308ef9637f8c5739690aed4
+
+Prog Size: 532                            Sectors: 4              TSL: T$0E S$0C
+
+--------------------------------------------------------------------------------
+
+CONFIGURE PRINTER SOFTWARE
+A - Applesoft BASIC                        MD5: 8ee6afd6a2a9da3f35f8233a0b2c1fd9
+
+Prog Size: 920                            Sectors: 5              TSL: T$0D S$0F
+
+--------------------------------------------------------------------------------
+
+CONFIGURE PRINTER SOFTWARE I
+I - Integer BASIC                          MD5: 3440fd251ce24bb6d9d50fb136bda88d
+
+Prog Size: 47                             Sectors: 2              TSL: T$0C S$0F
+
+--------------------------------------------------------------------------------
+
+CPS I
+T - Text                                   MD5: ca5f6b351088460ab168a48c52369979
+
+                                          Sectors: 2              TSL: T$0B S$0F
+
+--------------------------------------------------------------------------------
+
+CPS I2
+I - Integer BASIC                          MD5: 1e48e0de5ab5cf4d701c6c1cd4c75ac1
+
+Prog Size: 864                            Sectors: 5              TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+
+HELLO I2
+I - Integer BASIC                          MD5: 3c23218d124aa0b8060920440467b34e
+
+Prog Size: 188                            Sectors: 2              TSL: T$1F S$0B
+
+--------------------------------------------------------------------------------
+

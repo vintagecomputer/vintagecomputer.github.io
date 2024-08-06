@@ -1,0 +1,120 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:50
+
+    Media: 5.25" Floppy Disk
+   Format: Apple Pascal
+
+== STATUS ======================================================================
+
+12 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+RT128:
+
+NAME              TYPE  BLOCKS  LENGTH  MODIFIED
+
+SYSTEM.APPLE      DATA      32   16384  25-DEC-83
+SYSTEM.PASCAL     CODE      29   14848  25-DEC-83
+SYSTEM.LIBRARY    CODE      39   19968  25-DEC-83
+SYSTEM.ATTACH     CODE       9    4608  27-MAR-84
+RTSETMODE.CODE    CODE       4    2048  25-DEC-83
+SYSTEM.MISCINFO   DATA       1     192  25-DEC-83
+SYSTEM.CHARSET    DATA       2    1024  14-JUN-79
+ATTACH.DATA       DATA       1      32  29-NOV-84
+ATTACH.DRIVERS    CODE      17    8704  15-APR-85
+NEWSCREENS        DATA      35   17920   2-JAN-85
+SYSTEM.STARTUP    CODE      30   15360  25-APR-85
+STATS             DATA       2     725  17-MAR-81
+
+
+== FILE DETAILS ================================================================
+
+SYSTEM.APPLE
+DATA - Binary Data File                    MD5: 5abc095a8ed5ac231db236f7f6bf22b3
+
+Data Size: 16384    Block Qty: 32       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.PASCAL
+CODE - Executable Code Segment             MD5: 9caba8da50b2d0ae1470fa31d92abb1d
+
+Data Size: 14848    Block Qty: 29       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.LIBRARY
+CODE - Executable Code Segment             MD5: 42be162d48f8aed33b8798872ecf23ac
+
+Data Size: 19968    Block Qty: 39       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.ATTACH
+CODE - Executable Code Segment             MD5: abd632b6ec4a8028e710cb11cc0ab8ea
+
+Data Size: 4608     Block Qty: 9        
+
+--------------------------------------------------------------------------------
+
+RTSETMODE.CODE
+CODE - Executable Code Segment             MD5: 9f01079eba680f21f1c586285d4d2c8f
+
+Data Size: 2048     Block Qty: 4        
+
+--------------------------------------------------------------------------------
+
+SYSTEM.MISCINFO
+DATA - Binary Data File                    MD5: 4a854693cbde7e0628e57a7fb037f917
+
+Data Size: 192      Block Qty: 1        
+
+--------------------------------------------------------------------------------
+
+SYSTEM.CHARSET
+DATA - Binary Data File                    MD5: f5560816441c6d21f99c22c1c898303f
+
+Data Size: 1024     Block Qty: 2        
+
+--------------------------------------------------------------------------------
+
+ATTACH.DATA
+DATA - Binary Data File                    MD5: 31bf57d6f1cfdaf89b1b5522a770aec7
+
+Data Size: 32       Block Qty: 1        
+
+--------------------------------------------------------------------------------
+
+ATTACH.DRIVERS
+CODE - Executable Code Segment             MD5: 435bef8762969a39796c2f9450874edc
+
+Data Size: 8704     Block Qty: 17       
+
+--------------------------------------------------------------------------------
+
+NEWSCREENS
+DATA - Binary Data File                    MD5: 483021b5fcb6142116af14072053da68
+
+Data Size: 17920    Block Qty: 35       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.STARTUP
+CODE - Executable Code Segment             MD5: 1db29fe0fa208afa1589f805be005705
+
+Data Size: 15360    Block Qty: 30       
+
+--------------------------------------------------------------------------------
+
+STATS
+DATA - Binary Data File                    MD5: bd8491e159d1d87297c827ec59526530
+
+Data Size: 725      Block Qty: 2        
+
+--------------------------------------------------------------------------------
+

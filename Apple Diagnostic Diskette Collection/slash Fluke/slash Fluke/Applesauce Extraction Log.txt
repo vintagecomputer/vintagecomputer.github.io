@@ -1,0 +1,128 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:13
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+9 files were detected on the disk.
+The following errors were encountered:
+
+A2.TRBL.FLUKE has 11 bad block(s).
+
+== CATALOG =====================================================================
+
+FLUKE.A
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ A2.CAN          TXT       5  <NO DATE>         <NO DATE>           1927 R=    0
+ A3.CAN          TXT       5  <NO DATE>         <NO DATE>           1652 R=    0
+ UTILS.FLUKE     TXT      31  <NO DATE>         <NO DATE>          15237 R=    0
+ A2.DIAG.FLUKE   TXT      41  <NO DATE>         <NO DATE>          20339 R=    0
+ LISA.68K.IO     TXT      39  <NO DATE>         <NO DATE>          19159 R=    0
+ LISA.6504.IO    TXT      29  <NO DATE>         <NO DATE>          14009 R=    0
+ LISA.CPU.REV.B  TXT      39  <NO DATE>         <NO DATE>          19159 R=    0
+	 A2.TRBL.FLUKE   TXT      47  <NO DATE>         <NO DATE>          23042 R=    0
+ DUMMY           TXT       1  <NO DATE>         <NO DATE>              0 R=    0
+
+
+== FILE DETAILS ================================================================
+
+A2.CAN
+TXT - ASCII Text File ($04)                MD5: ce255d2c8c8dfe657ab3c6b69ee2c42d
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 5        File Size: 1927     Index Qty: 1        
+Data Size: 1927     Data Blks: 4        
+
+--------------------------------------------------------------------------------
+
+A3.CAN
+TXT - ASCII Text File ($04)                MD5: f9ead54c9a9ae56f0890d2ee59797650
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 5        File Size: 1652     Index Qty: 1        
+Data Size: 1652     Data Blks: 4        
+
+--------------------------------------------------------------------------------
+
+UTILS.FLUKE
+TXT - ASCII Text File ($04)                MD5: eba5c1dbf91a82874275c7d2e10c1d93
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 31       File Size: 15237    Index Qty: 1        
+Data Size: 15237    Data Blks: 30       
+
+--------------------------------------------------------------------------------
+
+A2.DIAG.FLUKE
+TXT - ASCII Text File ($04)                MD5: 574aed73ca86ea3a8de5e6dc482bbeac
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 41       File Size: 20339    Index Qty: 1        
+Data Size: 20339    Data Blks: 40       
+
+--------------------------------------------------------------------------------
+
+LISA.68K.IO
+TXT - ASCII Text File ($04)                MD5: b785a0bb7e29296c743c0fa149e20641
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 39       File Size: 19159    Index Qty: 1        
+Data Size: 19159    Data Blks: 38       
+
+--------------------------------------------------------------------------------
+
+LISA.6504.IO
+TXT - ASCII Text File ($04)                MD5: fe6ae5363bb855737858bab363db0532
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 29       File Size: 14009    Index Qty: 1        
+Data Size: 14009    Data Blks: 28       
+
+--------------------------------------------------------------------------------
+
+LISA.CPU.REV.B
+TXT - ASCII Text File ($04)                MD5: 9061639cecb3acf2b6b937ff7ea07e76
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 39       File Size: 19159    Index Qty: 1        
+Data Size: 19159    Data Blks: 38       
+
+--------------------------------------------------------------------------------
+
+A2.TRBL.FLUKE
+TXT - ASCII Text File ($04)                MD5: 91990e786aa9660829dfd9a9f37ea292
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 47       File Size: 23042    Index Qty: 1        
+Data Size: 23042    Data Blks: 46       
+
+Bytes 17920-18431 are empty due to bad block 232.
+Bytes 18432-18943 are empty due to bad block 233.
+Bytes 18944-19455 are empty due to bad block 234.
+Bytes 19456-19967 are empty due to bad block 235.
+Bytes 19968-20479 are empty due to bad block 236.
+Bytes 20480-20991 are empty due to bad block 237.
+Bytes 20992-21503 are empty due to bad block 238.
+Bytes 21504-22015 are empty due to bad block 239.
+Bytes 22016-22527 are empty due to bad block 240.
+Bytes 22528-23039 are empty due to bad block 241.
+Bytes 23040-23041 are empty due to bad block 242.
+
+--------------------------------------------------------------------------------
+
+DUMMY
+TXT - ASCII Text File ($04)                                                MD5: 
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 0        Index Qty: 0        
+Data Size: 0        Data Blks: 0        
+
+--------------------------------------------------------------------------------
+

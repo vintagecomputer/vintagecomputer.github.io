@@ -1,0 +1,54 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 11:14
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 001
+
+ I 002 NEW SARA STUFF
+ I 017 FINAL TEST
+ B 002 FIN.OBJ
+ B 008 DEFAULT CHARACTER SET
+
+
+== FILE DETAILS ================================================================
+
+NEW SARA STUFF
+I - Integer BASIC                          MD5: ec27681dd83054fca6b89fc3e6178dec
+
+Prog Size: 64                             Sectors: 2              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+FINAL TEST
+I - Integer BASIC                          MD5: af92598cee381e7fe354b29d913bc6ea
+
+Prog Size: 3990                           Sectors: 17             TSL: T$1D S$0F
+
+--------------------------------------------------------------------------------
+
+FIN.OBJ
+B - Binary                                 MD5: 5a947e2d40adc73860085e41c4cffd3a
+
+  Address: $0300         Size: 128        Sectors: 2              TSL: T$1F S$0F
+
+--------------------------------------------------------------------------------
+
+DEFAULT CHARACTER SET
+B - Binary                                 MD5: 47b4f8327bce579608ed45e84ad844ca
+
+  Address: $4000         Size: 1536       Sectors: 8              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+

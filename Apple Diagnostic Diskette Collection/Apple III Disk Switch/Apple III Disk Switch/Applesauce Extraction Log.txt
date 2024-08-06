@@ -1,0 +1,62 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:23
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 001
+
+*I 011 HELLO
+*B 081 5 TRACKS RESERVED 30-34
+*T 029 TEST
+*T 002 T
+*B 003 T.OBJ0
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+I - Integer BASIC                          MD5: dd9a8f527309f6a0d665754ccc97e4d5
+
+Prog Size: 2534                           Sectors: 11             TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+5 TRACKS RESERVED 30-34
+B - Binary                                 MD5: c59101356e818f59664754fc4b753c45
+
+  Address: $DFB1         Size: 433        Sectors: 81             TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+TEST
+T - Text                                   MD5: 3f94b36985e3e7408f99c32ee782c276
+
+                                          Sectors: 29             TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+T
+T - Text                                   MD5: 7fba87739cf57b3bed8cf5e1509652a5
+
+                                          Sectors: 2              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+T.OBJ0
+B - Binary                                 MD5: 79a3a4226c4e9a2e45e0d974e628ea44
+
+  Address: $0800         Size: 422        Sectors: 3              TSL: T$0F S$0F
+
+--------------------------------------------------------------------------------
+

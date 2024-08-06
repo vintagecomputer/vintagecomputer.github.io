@@ -1,0 +1,54 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 11:39
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+FLUKE
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ A2CSOURCE2      TXT      35  11-SEP-81  00:00  11-SEP-81  00:00   17167 R=    0
+ A2CSOURCE1      TXT      40  11-SEP-81  00:00  11-SEP-81  00:00   19545 R=    0
+ A2CHEX          TXT      39  11-SEP-81  00:00  11-SEP-81  00:00   19082 R=    0
+
+
+== FILE DETAILS ================================================================
+
+A2CSOURCE2
+TXT - ASCII Text File ($04)                MD5: 5ea12f92c854d5eec3b78140bfb093d7
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 35       File Size: 17167    Index Qty: 1        
+Data Size: 17167    Data Blks: 34       
+
+--------------------------------------------------------------------------------
+
+A2CSOURCE1
+TXT - ASCII Text File ($04)                MD5: e58a9eb0fe29fc79b92337fad3a3541e
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 40       File Size: 19545    Index Qty: 1        
+Data Size: 19545    Data Blks: 39       
+
+--------------------------------------------------------------------------------
+
+A2CHEX
+TXT - ASCII Text File ($04)                MD5: e7dc235dab605037bb13994bcd9fa1f6
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 39       File Size: 19082    Index Qty: 1        
+Data Size: 19082    Data Blks: 38       
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,222 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 11:03
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+25 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 083
+
+ A 008 HELLO
+ T 039 STACKPACK
+ B 058 INTERFACE.OBJ0
+ A 003 RESTART
+ I 009 INTHELLO
+ I 002 APPLESOFT
+ B 010 BRKMON
+ T 004 TINY
+ T 013 I/O
+ A 002 HELLO1
+ T 004 SYSEQU
+ T 003 INTERFACE
+ T 006 DISK
+ T 003 DATATABLES
+ B 038 PROTEST.OLD
+ T 066 TEST2
+ T 015 ERROR
+ T 011 SELECTOR
+ T 022 SUBLIB
+ T 019 MAKFALTS
+ T 009 DRIVER
+ B 009 GOLDIMAGE
+ B 038 FALTIMAGE
+ T 003 AUTO
+ T 002 PRODTEST
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: 5f2a2bc3afcad3e7d7f32249d6aa0fe5
+
+Prog Size: 205                            Sectors: 8              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+STACKPACK
+T - Text                                   MD5: 2d82be2d68f13e0b2b7c5c93747285e1
+
+                                          Sectors: 39             TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+INTERFACE.OBJ0
+B - Binary                                 MD5: b675277178cc981d1339e4210fa9252d
+
+  Address: $0900         Size: 14379      Sectors: 58             TSL: T$0D S$03
+
+--------------------------------------------------------------------------------
+
+RESTART
+A - Applesoft BASIC                        MD5: aa38afd4d68da9d2ac1e3a583218efe1
+
+Prog Size: 284                            Sectors: 3              TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+INTHELLO
+I - Integer BASIC                          MD5: 8b8baaec622ca19592ea26275bbd20a0
+
+Prog Size: 1798                           Sectors: 9              TSL: T$1C S$0F
+
+--------------------------------------------------------------------------------
+
+APPLESOFT
+I - Integer BASIC                          MD5: 9e64f4f9a02f4ffe5d9232e4233f1ca6
+
+Prog Size: 36                             Sectors: 2              TSL: T$1D S$0F
+
+--------------------------------------------------------------------------------
+
+BRKMON
+B - Binary                                 MD5: f68cfb3d4d2428a3ab2fe938a00c2501
+
+  Address: $7800         Size: 2048       Sectors: 10             TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+
+TINY
+T - Text                                   MD5: 7fbee4751446bed7104f3878bc0a2f29
+
+                                          Sectors: 4              TSL: T$04 S$05
+
+--------------------------------------------------------------------------------
+
+I/O
+T - Text                                   MD5: b0b89244935d68eb0278d137a31c70d7
+
+                                          Sectors: 13             TSL: T$12 S$07
+
+--------------------------------------------------------------------------------
+
+HELLO1
+A - Applesoft BASIC                        MD5: 08fd87fb9d5610aa9829a3575070dde5
+
+Prog Size: 156                            Sectors: 2              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+SYSEQU
+T - Text                                   MD5: 81430b8640b687cd04a5b76a73c03eb8
+
+                                          Sectors: 4              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+INTERFACE
+T - Text                                   MD5: e4137f960a1960f0d7cdd7cd3f378645
+
+                                          Sectors: 3              TSL: T$1A S$0D
+
+--------------------------------------------------------------------------------
+
+DISK
+T - Text                                   MD5: 91b87179cdff3a6d3d97cfb327f48cae
+
+                                          Sectors: 6              TSL: T$1E S$04
+
+--------------------------------------------------------------------------------
+
+DATATABLES
+T - Text                                   MD5: 37eb9a2802293cebbb44c80e44b795a4
+
+                                          Sectors: 3              TSL: T$1C S$06
+
+--------------------------------------------------------------------------------
+
+PROTEST.OLD
+B - Binary                                 MD5: 14ec051883e950c92558283d1b4ba158
+
+  Address: $0900         Size: 9376       Sectors: 38             TSL: T$1A S$0B
+
+--------------------------------------------------------------------------------
+
+TEST2
+T - Text                                   MD5: 5e8f40078fd35c8a9682b5ce95977102
+
+                                          Sectors: 66             TSL: T$09 S$0F
+
+--------------------------------------------------------------------------------
+
+ERROR
+T - Text                                   MD5: 30fe4b06f80eb0b5e467b935248713d5
+
+                                          Sectors: 15             TSL: T$0A S$0A
+
+--------------------------------------------------------------------------------
+
+SELECTOR
+T - Text                                   MD5: a4f1087a1038978021e30c2c96da9f61
+
+                                          Sectors: 11             TSL: T$1F S$0F
+
+--------------------------------------------------------------------------------
+
+SUBLIB
+T - Text                                   MD5: fb9fdb9f283f7cdca75bf9df18a89c97
+
+                                          Sectors: 22             TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+MAKFALTS
+T - Text                                   MD5: 4aaae1fe36e4b94e84c2a60fedf937e2
+
+                                          Sectors: 19             TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+DRIVER
+T - Text                                   MD5: 5526be75cbaf07f6fdfe378ae3c77981
+
+                                          Sectors: 9              TSL: T$19 S$0C
+
+--------------------------------------------------------------------------------
+
+GOLDIMAGE
+B - Binary                                 MD5: 349d24fb576ec55671f482aa4b9616be
+
+  Address: $304A         Size: 2000       Sectors: 9              TSL: T$0F S$07
+
+--------------------------------------------------------------------------------
+
+FALTIMAGE
+B - Binary                                 MD5: 16502aa5bd3f13743dd98cd9df79f54b
+
+  Address: $40F3         Size: 9440       Sectors: 38             TSL: T$1F S$03
+
+--------------------------------------------------------------------------------
+
+AUTO
+T - Text                                   MD5: 17c515c8d239f2d11651fc6ea2ce28b5
+
+                                          Sectors: 3              TSL: T$0C S$06
+
+--------------------------------------------------------------------------------
+
+PRODTEST
+T - Text                                   MD5: 09d064ad68f1037f44531e3121fdafe3
+
+                                          Sectors: 2              TSL: T$14 S$0B
+
+--------------------------------------------------------------------------------
+

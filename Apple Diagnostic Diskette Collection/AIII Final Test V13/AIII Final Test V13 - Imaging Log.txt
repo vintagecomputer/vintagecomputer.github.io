@@ -1,0 +1,73 @@
+FAST IMAGER LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:36
+
+    Media: 5.25" Floppy Disk
+ Physical: GCR encoded disk with Apple 6&2 sector structure. 16 x 256 byte sectors per track.
+   Format: Apple DOS 3.3
+
+== DISK MAP ====================================================================
+
+   00000000000000001111111111111111222
+   0123456789ABCDEF0123456789ABCDEF012
+00 ...................................
+01 ...................................
+02 ...................................
+03 ..........X........................
+04 ...................................
+05 ...................................
+06 ...................................
+07 ...................................
+08 ...................................
+09 ...................................
+0A ...................................
+0B ...................................
+0C ...................................
+0D ...................................
+0E ...................................
+0F ...................................
+
+
+== CATALOG =====================================================================
+
+DISK VOLUME 001
+
+*I 002 SARA FINAL TEST
+*I 002 XXXXXXXXXX 890-0090-00 REV 13
+*I 017 FINAL TEST MAIN MENU
+*I 003 INTERRUPT FINAL TEST
+*I 023 VIDEO FINAL TEST
+*I 007 SOUND FINAL TEST
+*I 015 CLOCK FINAL TEST
+*I 014 GOOD CLOCK TEST
+*I 005 ACIA FINAL TEST
+*I 014 PADDLE FINAL TEST
+*I 005 RAM FINAL TEST
+*I 016 PRINTER PORT FINAL TEST
+*I 026 DISK FINAL TEST
+*I 026 KEYBOARD FINAL TEST
+*I 004 ROM FINAL TEST
+*I 003 TEST DISKETTE MAKER
+*B 008 DEFAULT CHARACTER SET
+*B 033 TEST SCREEN
+*B 002 SCREEN BLANKER.OBJ0
+*B 002 DUMMY
+*B 002 SOUND TEST UTILITIES.OBJ0
+*B 019 ROM IMAGE
+*B 003 ACIA TEST.OBJ
+*B 004 SER NO.A$C00.L$200
+*B 002 JSTK.OBJ
+*B 003 PATCHCODE
+*B 003 DISK TEST.OBJ
+*B 011 CLOCK1
+*B 003 RAM BINARY.A$C00.L$100
+⇧*B 019 NEW ROM IMAGE
+*B 002 GEARSHIFT
+*B 012 CLOCK2
+*B 007 ISFT.OBJ
+*B 005 VIDEO TEST UTILITIES.OBJ0
+*B 003 BOUNCE.A$2000.L$FF
+ B 002 DISK.READ.WRITE
+

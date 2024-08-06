@@ -1,0 +1,136 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:30
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II CP/M
+
+== STATUS ======================================================================
+
+16 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+ PIP      COM        F        COM        SCRNTST  COM        FINAL    COM
+ CAT      COM        MBASIC   COM        COPY     COM        AP3PRUN  COM
+ SOFTEST  BAS        SOFTEST2 BAS        TEST     SUB        COPY     SUB
+ T        SUB        C        SUB        CLEAR    LST        DRIVER   SOS
+
+
+== FILE DETAILS ================================================================
+
+PIP.COM                                    MD5: ed658f4379ab0a0e555fa091a44da061
+
+     User: 0          Records: 58          Blocks: 8        File Size: 7424     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+F.COM                                      MD5: c1e8fadfa1e01ba2c15b676757027453
+
+     User: 0          Records: 10          Blocks: 2        File Size: 1280     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SCRNTST.COM                                MD5: 17c3669c7ed156e3d65fc84df2313951
+
+     User: 0          Records: 6           Blocks: 1        File Size: 768      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+FINAL.COM                                  MD5: c1e8fadfa1e01ba2c15b676757027453
+
+     User: 0          Records: 10          Blocks: 2        File Size: 1280     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+CAT.COM                                    MD5: 04998aa0540a5bb6466108c017097a2d
+
+     User: 0          Records: 6           Blocks: 1        File Size: 768      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+MBASIC.COM                                 MD5: 97432db61d237339e608fb716391d96b
+
+     User: 0          Records: 190         Blocks: 24       File Size: 24320    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+COPY.COM                                   MD5: 40e77452c219aa6d79aa130d16ad4ab9
+
+     User: 0          Records: 18          Blocks: 3        File Size: 2304     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+AP3PRUN.COM                                MD5: f83b888c1d1f87ce8dfdc672ebfa90c4
+
+     User: 0          Records: 45          Blocks: 6        File Size: 5760     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SOFTEST.BAS                                MD5: 6e1061ba2b1aee2b03bbb2ceea822345
+
+     User: 0          Records: 2           Blocks: 1        File Size: 256      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SOFTEST2.BAS                               MD5: 10c89b686e648eb18abddfb145d8583f
+
+     User: 0          Records: 2           Blocks: 1        File Size: 256      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+TEST.SUB                                   MD5: 35f7e1a23d808fff31885fca5a73d77a
+
+     User: 0          Records: 1           Blocks: 1        File Size: 128      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+COPY.SUB                                   MD5: faacb039a7d7ee9a338277f00552bf54
+
+     User: 0          Records: 2           Blocks: 1        File Size: 256      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+T.SUB                                      MD5: 35f7e1a23d808fff31885fca5a73d77a
+
+     User: 0          Records: 1           Blocks: 1        File Size: 128      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+C.SUB                                      MD5: faacb039a7d7ee9a338277f00552bf54
+
+     User: 0          Records: 2           Blocks: 1        File Size: 256      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+CLEAR.LST                                  MD5: 216a9becf327ef37be82fb78e867c7bb
+
+     User: 0          Records: 1           Blocks: 1        File Size: 128      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+DRIVER.SOS                                 MD5: 9cd34b1db57ecb079c3bb6b1ace1ab4b
+
+     User: 0          Records: 80          Blocks: 10       File Size: 10240    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+

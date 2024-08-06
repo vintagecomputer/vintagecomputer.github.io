@@ -1,0 +1,54 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:32
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+MACRO
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ A2C.CPU.NODES   TXT       6  09-MAR-83  04:07  09-MAR-83  04:07    2120 R=  512
+ A2CSOURCE2      TXT      35  11-SEP-81  00:00  09-MAR-83  04:14   17167 R=    0
+ A2CSOURCE1      TXT      40  11-SEP-81  00:00  09-MAR-83  04:15   19545 R=    0
+
+
+== FILE DETAILS ================================================================
+
+A2C.CPU.NODES
+TXT - ASCII Text File ($04)                MD5: 3ab349935c065e90b985512fc1e6bc09
+
+File Type: $04       Aux Type: $0200      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2120     Index Qty: 1        
+Data Size: 2120     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+
+A2CSOURCE2
+TXT - ASCII Text File ($04)                MD5: 5ea12f92c854d5eec3b78140bfb093d7
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 35       File Size: 17167    Index Qty: 1        
+Data Size: 17167    Data Blks: 34       
+
+--------------------------------------------------------------------------------
+
+A2CSOURCE1
+TXT - ASCII Text File ($04)                MD5: e58a9eb0fe29fc79b92337fad3a3541e
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 40       File Size: 19545    Index Qty: 1        
+Data Size: 19545    Data Blks: 39       
+
+--------------------------------------------------------------------------------
+

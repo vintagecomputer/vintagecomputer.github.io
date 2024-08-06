@@ -1,0 +1,63 @@
+FAST IMAGER LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:38
+
+    Media: 5.25" Floppy Disk
+ Physical: GCR encoded disk with Apple 6&2 sector structure. 16 x 256 byte sectors per track.
+   Format: Apple DOS 3.3
+
+== DISK MAP ====================================================================
+
+   00000000000000001111111111111111222
+   0123456789ABCDEF0123456789ABCDEF012
+00 ...................................
+01 ...................................
+02 ...................................
+03 ...................................
+04 ...................................
+05 ...................................
+06 ...................................
+07 ...................................
+08 ...................................
+09 ...................................
+0A ...................................
+0B ...................................
+0C ...................................
+0D ...................................
+0E ...................................
+0F ...................................
+
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 003 HELLO
+*A 003 HELLO A
+*I 002 HELLO I
+*B 034 LOGO
+*B 007 INITIALIZE 85
+*B 002 ORIGINAL SETUP 85
+ B 002 SETUP 85
+*B 023 HARDWARE CONTROL
+*B 017 USER INTERFACE
+*A 004 PROGRAM 1
+*A 004 PROGRAM 2
+*A 005 PROGRAM 3
+*A 004 CONFIGURE MODEL 85 SOFTWARE
+*B 006 DIGITIZER 0-1
+*B 006 DIGITIZER 2-3
+*B 006 DIGITIZER 4-5
+*B 003 NOMINAL SIGNAL
+*T 002 INTEGER SETUP
+*I 002 CONFIGURE MODEL 85 SOFTWARE I
+*T 002 CM85S I
+*I 004 CM85S I2
+*A 005 CONFIGURE PRINTER SOFTWARE
+*I 002 CONFIGURE PRINTER SOFTWARE I
+*T 002 CPS I
+*I 005 CPS I2
+*I 002 HELLO I2
+

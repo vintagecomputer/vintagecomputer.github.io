@@ -1,0 +1,104 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:26
+
+    Media: 5.25" Floppy Disk
+   Format: Apple /// SOS
+
+== STATUS ======================================================================
+
+8 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+PRODIAG
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ SYSTEM.PASCAL   PDA      65  10-AUG-81  00:00  11-SEP-81  00:00   32768 
+ SYSTEM.MISCINFO PDA       1  10-AUG-81  00:00  11-SEP-81  00:00     512 
+ SOS.DRIVER      SOS      42  11-FEB-82  07:30  11-SEP-81  00:00   20992 
+ SOS.KERNEL      SOS      44  01-FEB-82  00:00  03-MAY-82  14:45   22016 
+ SYSTEM.LIBRARY  PCD      29  10-AUG-81  00:00  11-SEP-81  00:00   14336 
+ SOS.INTERP      PDA      34  10-AUG-81  00:00  11-SEP-81  00:00   16896 
+ SYSTEM.WRK.CODE PCD      17  28-JUN-81  00:00  11-SEP-81  00:00    8192 
+ SYSTEM.STARTUP  PCD      15  21-MAY-82  01:35  03-JUN-82  11:53    7168 
+
+
+== FILE DETAILS ================================================================
+
+SYSTEM.PASCAL
+PDA - Pascal Data File ($05)               MD5: ab3572b9615e8438a251af78b0cdd1b5
+
+File Type: $05       Aux Type: $3A01      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 65       File Size: 32768    Index Qty: 1        
+Data Size: 32768    Data Blks: 64       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.MISCINFO
+PDA - Pascal Data File ($05)               MD5: 4ccba46a2d386c778421d0bf8eacb780
+
+File Type: $05       Aux Type: $3A01      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 512      Index Qty: 0        
+Data Size: 512      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+SOS.DRIVER
+SOS - Apple /// SOS System File ($0C)      MD5: 91122b56b40104e766fd1f9c102257d4
+
+File Type: $0C       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 42       File Size: 20992    Index Qty: 1        
+Data Size: 20992    Data Blks: 41       
+
+--------------------------------------------------------------------------------
+
+SOS.KERNEL
+SOS - Apple /// SOS System File ($0C)      MD5: 77a35161c98ec3988b4a89d91d920ad4
+
+File Type: $0C       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 44       File Size: 22016    Index Qty: 1        
+Data Size: 22016    Data Blks: 43       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.LIBRARY
+PCD - Pascal Code File ($02)               MD5: 9878c0c02d5548bda332b054fd3610dc
+
+File Type: $02       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 29       File Size: 14336    Index Qty: 1        
+Data Size: 14336    Data Blks: 28       
+
+--------------------------------------------------------------------------------
+
+SOS.INTERP
+PDA - Pascal Data File ($05)               MD5: 9e8fe1d382eace6e128962df0b8102eb
+
+File Type: $05       Aux Type: $3A01      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 34       File Size: 16896    Index Qty: 1        
+Data Size: 16896    Data Blks: 33       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.WRK.CODE
+PCD - Pascal Code File ($02)               MD5: 0d99dfbe0daf05d0b5ae5e03a24218ae
+
+File Type: $02       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 17       File Size: 8192     Index Qty: 1        
+Data Size: 8192     Data Blks: 16       
+
+--------------------------------------------------------------------------------
+
+SYSTEM.STARTUP
+PCD - Pascal Code File ($02)               MD5: 78d03254648864371692da2086eba601
+
+File Type: $02       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 15       File Size: 7168     Index Qty: 1        
+Data Size: 7168     Data Blks: 14       
+
+--------------------------------------------------------------------------------
+

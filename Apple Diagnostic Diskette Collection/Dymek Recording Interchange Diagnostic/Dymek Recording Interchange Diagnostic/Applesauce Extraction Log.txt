@@ -1,0 +1,64 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:55
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DYMEK
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+*PRODOS          SYS      31  01-JAN-84  00:00  <NO DATE>          15360 
+ BASIC.SYSTEM    SYS      21  15-NOV-83  00:00  <NO DATE>          10240 
+ RID2            BAS      11  <NO DATE>         <NO DATE>           4852 
+ T2.0            BIN       9  29-MAR-84  00:00  <NO DATE>           3946 A=$30D0
+
+
+== FILE DETAILS ================================================================
+
+PRODOS
+SYS - ProDOS System File ($FF)             MD5: 15edd070eb16de76c013ef0bcd513431
+
+File Type: $FF       Aux Type: $2000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 31       File Size: 15360    Index Qty: 1        
+Data Size: 15360    Data Blks: 30       
+
+--------------------------------------------------------------------------------
+
+BASIC.SYSTEM
+SYS - ProDOS System File ($FF)             MD5: 492289d526616ed9e7caeb53865af2d3
+
+File Type: $FF       Aux Type: $2000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 21       File Size: 10240    Index Qty: 1        
+Data Size: 10240    Data Blks: 20       
+
+--------------------------------------------------------------------------------
+
+RID2
+BAS - Applesoft BASIC Program ($FC)        MD5: df40fff9a051d3678a0308e47027d364
+
+File Type: $FC       Aux Type: $0801      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 11       File Size: 4852     Index Qty: 1        
+Data Size: 4852     Data Blks: 10       
+
+--------------------------------------------------------------------------------
+
+T2.0
+BIN - Binary File ($06)                    MD5: d627aa1a801a2be6716adbc1f4a1abcc
+
+File Type: $06       Aux Type: $30D0      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 9        File Size: 3946     Index Qty: 1        
+Data Size: 3946     Data Blks: 8        
+
+--------------------------------------------------------------------------------
+

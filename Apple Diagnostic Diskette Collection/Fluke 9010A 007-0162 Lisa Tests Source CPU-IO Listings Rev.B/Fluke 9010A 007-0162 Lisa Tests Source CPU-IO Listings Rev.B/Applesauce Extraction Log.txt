@@ -1,0 +1,84 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 11:21
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+FLUKE.LISA2
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ CPU             TXT      59  01-APR-82  00:00  01-APR-82  00:00   29262 R=    0
+ CPUOBJ          TXT      46  01-APR-82  00:00  01-APR-82  00:00   23036 R=    0
+ IO68            TXT      45  01-APR-82  00:00  01-APR-82  00:00   22118 R=    0
+ IO68OBJ         TXT      39  01-APR-82  00:00  01-APR-82  00:00   19159 R=    0
+ IO65            TXT      34  01-APR-82  00:00  01-APR-82  00:00   16884 R=    0
+ IO65OBJ         TXT      29  01-APR-82  00:00  01-APR-82  00:00   14009 R=    0
+
+
+== FILE DETAILS ================================================================
+
+CPU
+TXT - ASCII Text File ($04)                MD5: d85885e51ad6e7a154653a07096fb9a0
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 59       File Size: 29262    Index Qty: 1        
+Data Size: 29262    Data Blks: 58       
+
+--------------------------------------------------------------------------------
+
+CPUOBJ
+TXT - ASCII Text File ($04)                MD5: f5cd4aa770713765edd470ad1f2e0f7a
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 46       File Size: 23036    Index Qty: 1        
+Data Size: 23036    Data Blks: 45       
+
+--------------------------------------------------------------------------------
+
+IO68
+TXT - ASCII Text File ($04)                MD5: b4c2207581dcd2c69d91dcbb2c245bdf
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 45       File Size: 22118    Index Qty: 1        
+Data Size: 22118    Data Blks: 44       
+
+--------------------------------------------------------------------------------
+
+IO68OBJ
+TXT - ASCII Text File ($04)                MD5: b785a0bb7e29296c743c0fa149e20641
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 39       File Size: 19159    Index Qty: 1        
+Data Size: 19159    Data Blks: 38       
+
+--------------------------------------------------------------------------------
+
+IO65
+TXT - ASCII Text File ($04)                MD5: d71a90f597ddc48242d530f47e4c8259
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 34       File Size: 16884    Index Qty: 1        
+Data Size: 16884    Data Blks: 33       
+
+--------------------------------------------------------------------------------
+
+IO65OBJ
+TXT - ASCII Text File ($04)                MD5: fe6ae5363bb855737858bab363db0532
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 29       File Size: 14009    Index Qty: 1        
+Data Size: 14009    Data Blks: 28       
+
+--------------------------------------------------------------------------------
+

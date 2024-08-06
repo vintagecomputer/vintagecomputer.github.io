@@ -1,0 +1,10 @@
+COPY B:=A:/S
+PIP B:=A:*.COM
+PIP B:=A:*.BAS
+PIP B:=A:TEST.SUB
+PIP B:=A:COPY.SUB
+PIP B:=A:T.SUB
+PIP B:=A:C.SUB
+PIP B:=A:CLEAR.LST
+PIP B:=A:DRIVER.SOS
+

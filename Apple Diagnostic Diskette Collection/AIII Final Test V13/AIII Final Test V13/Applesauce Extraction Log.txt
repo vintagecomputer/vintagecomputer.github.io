@@ -1,0 +1,314 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 6, 2024 at 10:36
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+36 files were detected on the disk.
+The following errors were encountered:
+
+NEW ROM IMAGE has 1 bad sector(s).
+
+== CATALOG =====================================================================
+
+DISK VOLUME 001
+
+*I 002 SARA FINAL TEST
+*I 002 XXXXXXXXXX 890-0090-00 REV 13
+*I 017 FINAL TEST MAIN MENU
+*I 003 INTERRUPT FINAL TEST
+*I 023 VIDEO FINAL TEST
+*I 007 SOUND FINAL TEST
+*I 015 CLOCK FINAL TEST
+*I 014 GOOD CLOCK TEST
+*I 005 ACIA FINAL TEST
+*I 014 PADDLE FINAL TEST
+*I 005 RAM FINAL TEST
+*I 016 PRINTER PORT FINAL TEST
+*I 026 DISK FINAL TEST
+*I 026 KEYBOARD FINAL TEST
+*I 004 ROM FINAL TEST
+*I 003 TEST DISKETTE MAKER
+*B 008 DEFAULT CHARACTER SET
+*B 033 TEST SCREEN
+*B 002 SCREEN BLANKER.OBJ0
+*B 002 DUMMY
+*B 002 SOUND TEST UTILITIES.OBJ0
+*B 019 ROM IMAGE
+*B 003 ACIA TEST.OBJ
+*B 004 SER NO.A$C00.L$200
+*B 002 JSTK.OBJ
+*B 003 PATCHCODE
+*B 003 DISK TEST.OBJ
+*B 011 CLOCK1
+*B 003 RAM BINARY.A$C00.L$100
+*B 019 NEW ROM IMAGE
+*B 002 GEARSHIFT
+*B 012 CLOCK2
+*B 007 ISFT.OBJ
+*B 005 VIDEO TEST UTILITIES.OBJ0
+*B 003 BOUNCE.A$2000.L$FF
+ B 002 DISK.READ.WRITE
+
+
+== FILE DETAILS ================================================================
+
+SARA FINAL TEST
+I - Integer BASIC                          MD5: a4dc500213b7dba5c0ef9da332de951f
+
+Prog Size: 70                             Sectors: 2              TSL: T$09 S$0F
+
+--------------------------------------------------------------------------------
+
+XXXXXXXXXX 890-0090-00 REV 13
+I - Integer BASIC                          MD5: 34184cf80ce5c953e9d828d32b6178cf
+
+Prog Size: 5                              Sectors: 2              TSL: T$08 S$0F
+
+--------------------------------------------------------------------------------
+
+FINAL TEST MAIN MENU
+I - Integer BASIC                          MD5: 3b5f42be2aa1da8aa5b4c835451f0e09
+
+Prog Size: 3589                           Sectors: 17             TSL: T$07 S$0F
+
+--------------------------------------------------------------------------------
+
+INTERRUPT FINAL TEST
+I - Integer BASIC                          MD5: 460f3ff46cde2391d5cba9567f248980
+
+Prog Size: 398                            Sectors: 3              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+VIDEO FINAL TEST
+I - Integer BASIC                          MD5: 9c5ae0d7921853854a9d7dfb282da4ba
+
+Prog Size: 5420                           Sectors: 23             TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+SOUND FINAL TEST
+I - Integer BASIC                          MD5: 7cffbebc9f40f0a1c43ef35cb5e62dc0
+
+Prog Size: 1528                           Sectors: 7              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+CLOCK FINAL TEST
+I - Integer BASIC                          MD5: 8eeda703ca7dd6d00e6f41df3ddf6aff
+
+Prog Size: 3573                           Sectors: 15             TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+GOOD CLOCK TEST
+I - Integer BASIC                          MD5: 3aae2f43996a6075541722f77561f25e
+
+Prog Size: 3223                           Sectors: 14             TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+ACIA FINAL TEST
+I - Integer BASIC                          MD5: 2906cb84988c06d575f55e27798bc1b3
+
+Prog Size: 965                            Sectors: 5              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+PADDLE FINAL TEST
+I - Integer BASIC                          MD5: 23a5acf5401e75b44aa0f40f92f14ceb
+
+Prog Size: 3290                           Sectors: 14             TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+RAM FINAL TEST
+I - Integer BASIC                          MD5: 48419695690b0d4f7aa8076b6d180603
+
+Prog Size: 814                            Sectors: 5              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+PRINTER PORT FINAL TEST
+I - Integer BASIC                          MD5: 449a412564a8cef78acf767e88f7b73a
+
+Prog Size: 3795                           Sectors: 16             TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+DISK FINAL TEST
+I - Integer BASIC                          MD5: 13395ad09b1c3a61034c15bb61124bdf
+
+Prog Size: 6256                           Sectors: 26             TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+KEYBOARD FINAL TEST
+I - Integer BASIC                          MD5: 884d8b79de4ac575daea52ed9a6ea4ba
+
+Prog Size: 6200                           Sectors: 26             TSL: T$1C S$0F
+
+--------------------------------------------------------------------------------
+
+ROM FINAL TEST
+I - Integer BASIC                          MD5: 93ddc277cd4ece30a070d9dd6d6f49d3
+
+Prog Size: 616                            Sectors: 4              TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+
+TEST DISKETTE MAKER
+I - Integer BASIC                          MD5: b523a54854351262fad52f4543bd887a
+
+Prog Size: 390                            Sectors: 3              TSL: T$1F S$0F
+
+--------------------------------------------------------------------------------
+
+DEFAULT CHARACTER SET
+B - Binary                                 MD5: 47b4f8327bce579608ed45e84ad844ca
+
+  Address: $4000         Size: 1536       Sectors: 8              TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+TEST SCREEN
+B - Binary                                 MD5: b809ea15bf9a792381b2decc74d553e2
+
+  Address: $2000         Size: 8184       Sectors: 33             TSL: T$21 S$0F
+
+--------------------------------------------------------------------------------
+
+SCREEN BLANKER.OBJ0
+B - Binary                                 MD5: 10c443be15075bc40632b570fe5d2b28
+
+  Address: $3012         Size: 18         Sectors: 2              TSL: T$1F S$0B
+
+--------------------------------------------------------------------------------
+
+DUMMY
+B - Binary                                 MD5: fb08e72ca95426e22ceabdbe660d0fe4
+
+  Address: $0300         Size: 1          Sectors: 2              TSL: T$10 S$0F
+
+--------------------------------------------------------------------------------
+
+SOUND TEST UTILITIES.OBJ0
+B - Binary                                 MD5: fa4ebef8ff59329082a1d8498d3773fe
+
+  Address: $0C00         Size: 128        Sectors: 2              TSL: T$0F S$0F
+
+--------------------------------------------------------------------------------
+
+ROM IMAGE
+B - Binary                                 MD5: 00f5528a922c261314da2400e8d4170d
+
+  Address: $1F00         Size: 4352       Sectors: 19             TSL: T$0E S$0F
+
+--------------------------------------------------------------------------------
+
+ACIA TEST.OBJ
+B - Binary                                 MD5: ea3d2326122ecbc389f2fa995ddc3233
+
+  Address: $6000         Size: 413        Sectors: 3              TSL: T$0D S$0F
+
+--------------------------------------------------------------------------------
+
+SER NO.A$C00.L$200
+B - Binary                                 MD5: 203846b2039d48a2745d7dd9c9a98312
+
+  Address: $0C00         Size: 512        Sectors: 4              TSL: T$0A S$0C
+
+--------------------------------------------------------------------------------
+
+JSTK.OBJ
+B - Binary                                 MD5: 579a15b34e5f2d7dbc573b1677360694
+
+  Address: $02FD         Size: 128        Sectors: 2              TSL: T$0B S$0F
+
+--------------------------------------------------------------------------------
+
+PATCHCODE
+B - Binary                                 MD5: 7d8ad342cc32a2714ee836d7aa5cf739
+
+  Address: $0300         Size: 256        Sectors: 3              TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+
+DISK TEST.OBJ
+B - Binary                                 MD5: 2ab12d6ccc441804c29dbe64a77d9b8a
+
+  Address: $0300         Size: 128        Sectors: 3              TSL: T$09 S$07
+
+--------------------------------------------------------------------------------
+
+CLOCK1
+B - Binary                                 MD5: ee552eaea78faa94748ada45a501f340
+
+  Address: $2100         Size: 2373       Sectors: 11             TSL: T$0B S$06
+
+--------------------------------------------------------------------------------
+
+RAM BINARY.A$C00.L$100
+B - Binary                                 MD5: 1a66687ff366bd5f8b0e212995d43180
+
+  Address: $0C00         Size: 256        Sectors: 3              TSL: T$14 S$08
+
+--------------------------------------------------------------------------------
+
+NEW ROM IMAGE
+B - Binary                                 MD5: 72e0f667ba1d635dfda2f9acf43c6fed
+
+  Address: $0F00         Size: 4352       Sectors: 19             TSL: T$09 S$04
+
+Bytes 1280-1535 are empty due to bad sector (T$0A S$06).
+
+--------------------------------------------------------------------------------
+
+GEARSHIFT
+B - Binary                                 MD5: 04251a326edf547654def17009fa015f
+
+  Address: $3000         Size: 32         Sectors: 2              TSL: T$16 S$01
+
+--------------------------------------------------------------------------------
+
+CLOCK2
+B - Binary                                 MD5: 30d6cb1b1e1706e0138dfa394582ddd2
+
+  Address: $2000         Size: 2560       Sectors: 12             TSL: T$17 S$0A
+
+--------------------------------------------------------------------------------
+
+ISFT.OBJ
+B - Binary                                 MD5: e64609267ba44bdece87032b85fce54b
+
+  Address: $6000         Size: 1531       Sectors: 7              TSL: T$0C S$0B
+
+--------------------------------------------------------------------------------
+
+VIDEO TEST UTILITIES.OBJ0
+B - Binary                                 MD5: e018be92553e55bd7ab0a5a68b858305
+
+  Address: $0C00         Size: 847        Sectors: 5              TSL: T$1D S$07
+
+--------------------------------------------------------------------------------
+
+BOUNCE.A$2000.L$FF
+B - Binary                                 MD5: 32dd58af5738b8f000e033a6fada38d6
+
+  Address: $2000         Size: 255        Sectors: 3              TSL: T$14 S$05
+
+--------------------------------------------------------------------------------
+
+DISK.READ.WRITE
+B - Binary                                 MD5: af2b87547d6cb9b4d7d766b3b13bff25
+
+  Address: $2000         Size: 16         Sectors: 2              TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
