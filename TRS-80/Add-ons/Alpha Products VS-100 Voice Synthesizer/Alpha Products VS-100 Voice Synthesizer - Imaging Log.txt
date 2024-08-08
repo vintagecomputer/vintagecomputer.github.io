@@ -1,0 +1,26 @@
+FAST IMAGER LOG
+Performed by Applesauce v1.88.5
+www.applesaucefdc.com
+
+Timestamp: Aug 7, 2024 at 19:22
+
+    Media: 5.25" Floppy Disk
+ Physical: 87K SSSD FM encoded disk with IBM sector structure. 10 x 256 byte sectors per track.
+   Format: 
+
+== DISK MAP ====================================================================
+
+   00000000000000001111111111111111222
+   0123456789ABCDEF0123456789ABCDEF012
+00 ..................XXXXXXXXXXXXXXXXX
+01 ..................XXXXXXXXXXXXXXXXX
+02 ..................XXXXXXXXXXXXXXXXX
+03 ..................XXXXXXXXXXXXXXXXX
+04 ..................XXXXXXXXXXXXXXXXX
+05 ..................XXXXXXXXXXXXXXXXX
+06 ..................XXXXXXXXXXXXXXXXX
+07 ..................XXXXXXXXXXXXXXXXX
+08 ..................XXXXXXXXXXXXXXXXX
+09 ..................XXXXXXXXXXXXXXXXX
+
+
